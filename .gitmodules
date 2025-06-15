@@ -1,0 +1,9 @@
+[submodule "Hardware_Code"]
+	path = Hardware_Code
+	url = https://github.com/korn1evski/pbl_iot
+[submodule "Server_Backend_Code"]
+	path = Server_Backend_Code
+	url = https://github.com/grumpycatyo-collab/presence_checker
+[submodule "Client_Frontend_Code"]
+	path = Client_Frontend_Code
+	url = https://github.com/danielavornic/rfid-attendence-client
